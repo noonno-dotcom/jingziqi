@@ -16,22 +16,6 @@
 - **前端**: HTML, CSS, JavaScript
 - **框架**: Tauri 1.x
 
-## 安装要求
-
-1. **Rust**: 需要安装 Rust 工具链
-   ```bash
-   # 如果还没有安装 Rust，请访问 https://www.rust-lang.org/tools/install
-   ```
-
-2. **Tauri CLI**: 安装 Tauri CLI
-   ```bash
-   cargo install tauri-cli
-   ```
-
-3. **系统依赖**:
-   - Windows: 需要安装 Microsoft Visual C++ Redistributable
-   - 其他系统依赖请参考 [Tauri 官方文档](https://tauri.app/v1/guides/getting-started/prerequisites)
-
 ## 运行项目
 
 ### 开发模式
